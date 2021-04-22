@@ -6,7 +6,7 @@
 
 I'm a computer science student with big passion for problem solving.
 
-Currently looking with great motivation for my first student position at a software developer.
+Currently looking with great motivation for my first student position as a software developer.
 
 #### Experienced with developing:
   
